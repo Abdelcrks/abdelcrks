@@ -3,7 +3,31 @@
   <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?duration=3500&pause=900&center=true&vCenter=true&width=1200&height=40&lines=🚀+Développeur+Full-Stack+en+reconversion;Ada+Tech+School+•+Paris+•+Ouvert+aux+opportunités" alt="Typing header" />
 </p>
-  
+<p align="center">
+
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=1F1F80&text=Salut%20Voici%20Mon%20GitHub&fontColor=FFFFFF&fontAlignY=49&fontAlign=50&animation=fadeIn&descAlign=50&descAlignY=60&rotate=0&fontSize=50" alt="header gradient" />
+</p>
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5EB4FF&height=200&section=header&text=Bienvenue%20Sur%20Mon%20GitHub!&fontColor=ffffff&fontSize=35&fontAlign=40" />
+</p>
+
+<!-- Typing Intro Text -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines==🚀+Développeur+Full-Stack+en+reconversion;Ada+Tech+School+•+Paris+•+Ouvert+aux+opportunités">
+</p>
+
+<!-- Tech-style GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="AI Developer GIF">
+</p>
+
+
+
+
 </p>
 <h1 align="center">👋 Hey, moi c'est Abdel</h1>
 
