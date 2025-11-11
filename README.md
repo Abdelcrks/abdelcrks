@@ -1,7 +1,6 @@
 
 
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=1F1F80&text=Salut%20Voici%20Mon%20GitHub&fontColor=FFFFFF&fontAlignY=49&fontAlign=50&animation=fadeIn&descAlign=50&descAlignY=60&rotate=0&fontSize=50" alt="header gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=051BA8&text=Salut%20Voici%20Mon%20GitHub&fontColor=FFFFFF&fontAlignY=49&fontAlign=50&animation=fadeIn&descAlign=50&descAlignY=60&rotate=0&fontSize=50" alt="header gradient" />
 </p>
 
   <img src="https://readme-typing-svg.herokuapp.com?duration=3500&pause=900&center=true&vCenter=true&width=1200&height=40&lines=🚀+Développeur+Full-Stack+en+reconversion;Ada+Tech+School+•+Paris+•+Ouvert+aux+opportunités" alt="Typing header" />
