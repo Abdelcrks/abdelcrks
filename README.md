@@ -50,6 +50,9 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
+  <a href="https://www.canva.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Canva_Logo.png/768px-Canva_Logo.png" width="40" height="40"/></a>
+  <a href="https://www.photoshop.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/></a>
+  <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank"><img src="https://seeklogo.com/images/D/davinci-resolve-logo-27090F6CBA-seeklogo.com.png" width="40" height="40"/></a>
 </p>
 
 ---
