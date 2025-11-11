@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420" role="img" aria-label="Header Abdel">
+  <image href="./background.jpeg" x="0" y="0" width="1600" height="420" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="0" y="0" width="1600" height="420" fill="rgba(0,0,0,0.20)"/>
+
+  <text x="50%" y="155" text-anchor="middle"
+        font-size="40"
+        font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, 'Helvetica Neue', Arial"
+        fill="#ffffff"
+        style="paint-order: stroke; stroke: rgba(0,0,0,.35); stroke-width: 3px;">
+    👋 Hey, moi c'est Abdel
+  </text>
+
+  <image
+    x="200" y="200" width="1200" height="40" preserveAspectRatio="xMidYMid meet"
+    href="https://readme-typing-svg.herokuapp.com?duration=3500&pause=900&center=true&vCenter=true&width=1200&height=40&lines=%F0%9F%9A%80+Développeur+Full-Stack+en+reconversion;Ada+Tech+School+•+Paris+•+Ouvert+aux+opportunités"
+  />
+</svg>
