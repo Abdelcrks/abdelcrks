@@ -3,11 +3,16 @@
   <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?duration=3500&pause=900&center=true&vCenter=true&width=1200&height=40&lines=🚀+Développeur+Full-Stack+en+reconversion;Ada+Tech+School+•+Paris+•+Ouvert+aux+opportunités" alt="Typing header" />
 </p>
+  
 </p>
 <h1 align="center">👋 Hey, moi c'est Abdel</h1>
 
-
-
+<h2 align="center">
+  🚀 Développeur Full-Stack en reconversion • Ada Tech School • Paris / Ouvert aux opportunités
+</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?duration=3500&pause=900&center=true&vCenter=true&width=1200&height=40&lines=🚀+Développeur+Full-Stack+en+reconversion;Ada+Tech+School+•+Paris+•+Ouvert+aux+opportunités" alt="Typing header" />
+</p>
 ---
 
 ### 👨‍💻 À propos de moi
