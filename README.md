@@ -1,5 +1,6 @@
 <p align="center">
   <img src="assets/header.svg" width="100%" alt="Abdel — Full-Stack Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?duration=3500&pause=900&center=true&vCenter=true&width=1200&height=40&lines=%F0%9F%9A%80+Développeur+Full-Stack+en+reconversion;Ada+Tech+School+•+Paris+•+Ouvert+aux+opportunités" alt="Typing header" />
 </p>
 
   
