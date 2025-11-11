@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="Banner minimal tech" />
+  <img src="assets/banner.jpeg" width="100%" alt="Banner minimal tech" />
 </p>
 <h1 align="center">👋 Hey, moi c'est Abdel</h1>
 
