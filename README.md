@@ -116,7 +116,7 @@
 
 ### 📬 Me contacter
 
-📩 LinkedIn : www.linkedin.com/in/abdel-berkat-28088a2b0
+📩 LinkedIn : www.linkedin.com/in/abdel-berkat
 
 ---
 
