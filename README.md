@@ -16,6 +16,18 @@
 
 ---
 
+
+### 👤 Un peu plus sur moi
+
+- 🏍️ Passionné de **moto** — pour moi, c’est liberté + adrénaline
+- 🎮 Gamer dans l'âme — FPS / open world / management 
+- ✈️ Voyageur — Thaïlande, Dubaï, Malaisie… j’adore découvrir de nouvelles cultures et filmer mes voyages
+- 🎥 J’aime monter des vidéos (DaVinci Resolve • contenu voyage / perso / projets)
+
+> 🌍 J’aime construire des projets qui ont du sens, tout comme j’aime explorer le monde.
+
+---
+
 ### 🛠️ Compétences & Stack
 
 #### **Frontend**
