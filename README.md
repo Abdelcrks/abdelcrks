@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/banner.png" width="100%" alt="Banner minimal tech" />
+</p>
 <h1 align="center">👋 Hey, moi c'est Abdel</h1>
 
 <h2 align="center">
