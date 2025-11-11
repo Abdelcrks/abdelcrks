@@ -92,6 +92,10 @@
 - Environnement qui aime l’apprentissage et les projets concrets
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdelcrks&label=Vues%20du%20profil&style=for-the-badge" />
+</p>
+
 
 ### 📬 Me contacter
 
