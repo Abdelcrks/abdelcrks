@@ -48,7 +48,7 @@
 ### 🛠️ Compétences & Stack
 
 #### **Frontend**
-- React • JavaScript • TypeScript  **Next.js**
+- React • JavaScript • TypeScript • Next.js
 - HTML • CSS • TailwindCSS
 
 #### **Backend**
@@ -57,7 +57,7 @@
 
 #### **Base de données**
 - PostgreSQL (Neon)  
-- Prisma / Sequelize
+- Drizzle
 
 #### **Outils**
 - Git / GitHub
@@ -105,7 +105,7 @@
 
 📢 **Alternance / Stage** en développement web **à partir de février 2026**
 
-- Full-Stack / Front / React / Node 
+- Full-Stack / Front / Back / React / Node / Next.js
 - Environnement qui aime l’apprentissage et les projets concrets
 
 ---
