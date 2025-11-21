@@ -90,7 +90,6 @@
 
 | Projet | Description | Stack |
 |--------|-------------|--------|
-
 | **Parigo** | Application complète d’exploration des événements parisiens : recherche + filtres dynamiques, pagination, favoris via LocalStorage, dark mode, interface totalement responsive | REACT • VITE • TAILWIND • API Paris Data |
 | **Cockt'Ada** | Site de cocktails (images + recettes), affichage dynamique depuis fichier JSON + gestion du thème | HTML • CSS • JS |
 | **Adalicious** | Site vitrine de recettes + système de filtrage par ingrédients | JS • CSS • POSTGRESQL • Node • Express |
