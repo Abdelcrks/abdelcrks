@@ -90,6 +90,7 @@
 
 | Projet | Description | Stack |
 |--------|-------------|--------|
+| **Mini-blog** | CRUD complet (GET/POST/PUT/DELETE) en Next.js avec une API interne, base PostgreSQL et Drizzle ORM. Objectif : communication backend → frontend et frontend → backend, UI avec Tailwind | NEXT.JS • TYPESCRIPT • POSTGRESQL • DRIZZLE • TAILWIND |
 | **Parigo** | Application complète d’exploration des événements parisiens : recherche + filtres dynamiques, pagination, favoris via LocalStorage, dark mode, interface totalement responsive | REACT • VITE • TAILWIND • API Paris Data |
 | **Cockt'Ada** | Site de cocktails (images + recettes), affichage dynamique depuis fichier JSON + gestion du thème | HTML • CSS • JS |
 | **Adalicious** | Site vitrine de recettes + système de filtrage par ingrédients | JS • CSS • POSTGRESQL • Node • Express |
