@@ -88,8 +88,8 @@
 
 ### 🚧 Projets en cours / réalisés
 
-| Projet | Description | Stack |
-|--------|-------------|--------|
+| Projet | Description | Stack | lien  |
+|--------|-------------|--------|--------|
 | **Adaverse (🛠️ En construction)** | Plateforme qui regroupe tous les projets de la promo Ada (Frida/Graces). Filtres par catégories, affichage dynamique depuis une base Postgres, pages par projet, système de publication + join Drizzle. Projet moderne full-stack avec composant de formulaire, routes dynamiques et UI responsive.| NEXT.JS • TYPESCRIPT • POSTGRESQL • DRIZZLE • TAILWIND |
 | **Mini-blog** | CRUD complet (GET/POST/PUT/DELETE) en Next.js avec une API interne, base PostgreSQL et Drizzle ORM. Objectif : communication backend → frontend et frontend → backend, UI avec Tailwind | NEXT.JS • TYPESCRIPT • POSTGRESQL • DRIZZLE • TAILWIND |
 | **Parigo** | Application complète d’exploration des événements parisiens : recherche + filtres dynamiques, pagination, favoris via LocalStorage, dark mode, interface totalement responsive | REACT • VITE • TAILWIND • API Paris Data |
