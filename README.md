@@ -49,7 +49,7 @@
 
 #### **Frontend**
 - React • JavaScript • TypeScript • Next.js
-- HTML • CSS • TailwindCSS
+- HTML • CSS • TailwindCSS • Particles.js
 
 #### **Backend**
 - Node.js • Express.js  
@@ -64,6 +64,7 @@
 - Figma (maquettes)
 - Trello / Notion
 - Bash
+- Excalidraw
 
 ---
 <h3 align="left">💻 Languages and Tools :</h3>
@@ -88,16 +89,16 @@
 
 ### 🚧 Projets en cours / réalisés
 
-| Projet | Description | Stack | lien  |
-|--------|-------------|--------|--------|
-| **Adaverse (🛠️ En construction)** | Plateforme qui regroupe tous les projets de la promo Ada (Frida/Graces). Filtres par catégories, affichage dynamique depuis une base Postgres, pages par projet, système de publication + join Drizzle. Projet moderne full-stack avec composant de formulaire, routes dynamiques et UI responsive.| NEXT.JS • TYPESCRIPT • POSTGRESQL • DRIZZLE • TAILWIND |
-| **Mini-blog** | CRUD complet (GET/POST/PUT/DELETE) en Next.js avec une API interne, base PostgreSQL et Drizzle ORM. Objectif : communication backend → frontend et frontend → backend, UI avec Tailwind | NEXT.JS • TYPESCRIPT • POSTGRESQL • DRIZZLE • TAILWIND |
-| **Parigo** | Application complète d’exploration des événements parisiens : recherche + filtres dynamiques, pagination, favoris via LocalStorage, dark mode, interface totalement responsive | REACT • VITE • TAILWIND • API Paris Data |
-| **Cockt'Ada** | Site de cocktails (images + recettes), affichage dynamique depuis fichier JSON + gestion du thème | HTML • CSS • JS |
-| **Adalicious** | Site vitrine de recettes + système de filtrage par ingrédients | JS • CSS • POSTGRESQL • Node • Express |
-| **Adaction** | Application de suivi de collectes de déchets pour associations + onboarding + BDD | JS • Node • PostgreSQL  • Express |
-| **Quizz Capitales** | Quiz sur les capitales avec timer, score et feedback visuel | HTML • CSS • JavaScript |
-| **Space Explorer (🛠️ En construction) ** | Recherche d’informations sur les planètes + animation immersive + API Wikipedia | HTML/CSS/JS • Particles.js |
+| Projet | Description | Stack | Repo   | Démo   |
+|--------|-------------|--------|--------|--------|
+| **Adaverse** | Plateforme qui regroupe tous les projets de la promo Ada (Frida/Graces). Filtres par catégories, affichage dynamique depuis une base Postgres, pages par projet, système de publication + join Drizzle. Projet moderne full-stack avec composant de formulaire, routes dynamiques et UI responsive.| NEXT.JS • TYPESCRIPT • POSTGRESQL • DRIZZLE • TAILWIND |[Voir le projet](https://github.com/Abdelcrks/adaverse) | [Demo](https://adaverse-psi.vercel.app/)|
+| **Mini-blog** | CRUD complet (GET/POST/PUT/DELETE) en Next.js avec une API interne, base PostgreSQL et Drizzle ORM. Objectif : communication backend → frontend et frontend → backend, UI avec Tailwind | NEXT.JS • TYPESCRIPT • POSTGRESQL • DRIZZLE • TAILWIND ||[Voir le projet](https://github.com/Abdelcrks/parigo) | [Demo](https://parigo.vercel.app/)|
+| **Parigo** | Application complète d’exploration des événements parisiens : recherche + filtres dynamiques, pagination, favoris via LocalStorage, dark mode, interface totalement responsive | REACT • VITE • TAILWIND • API Paris Data ||[Voir le projet](https://github.com/Abdelcrks/parigo) | [Demo](https://parigo.vercel.app/)|
+| **Cockt'Ada** | Site de cocktails (images + recettes), affichage dynamique depuis fichier JSON + gestion du thème | HTML • CSS • JS ||[Voir le projet](https://github.com/Abdelcrks/parigo)| [Demo]((https://cockt-ada.vercel.app/))|
+| **Adalicious** | Site vitrine de recettes + système de filtrage par ingrédients | JS • CSS • POSTGRESQL • Node • Express ||[Voir le projet front ](https://github.com/Abdelcrks/adalicious) • [Voir le projet back ](https://github.com/Abdelcrks/adalicious-back)  | [Demo]()|
+| **Adaction** | Application de suivi de collectes de déchets pour associations + onboarding + BDD | JS • Node • PostgreSQL  • Express | |[Voir le projet]((https://github.com/Abdelcrks/adaction)) | [Demo](https://adaction-two.vercel.app/)|
+| **Quizz Capitales** | Quiz sur les capitales avec timer, score et feedback visuel | HTML • CSS • JavaScript ||[Voir le projet](https://github.com/Abdelcrks/Quizz-Capitale) | [Demo](https://quizz-capitale.vercel.app/))|
+| **Space Explorer (🛠️ En construction) ** | Recherche d’informations sur les planètes + animation immersive + API Wikipedia | HTML/CSS/JS • Particles.js ||[Voir le projet](https://github.com/Abdelcrks/parigo) | [Demo](https://space-explorer-flax.vercel.app/index.html)|
 
 ➡️ Tous mes projets ici :  
 👉 https://github.com/abdelcrks?tab=repositories
