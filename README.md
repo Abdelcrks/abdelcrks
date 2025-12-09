@@ -110,8 +110,8 @@
 
 📢 **Alternance / Stage** en développement web **à partir de février 2026**
 
-- Full-Stack / Front / Back / React / Node / Next.js
-- Environnement qui aime l’apprentissage et les projets concrets
+- Full-Stack / Front / Back / React / Node / Next.js / Typescript
+
 
 ---
 <p align="center">
