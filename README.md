@@ -16,7 +16,7 @@
 
 
 </p>
-<h1 align="center">👋 Hey, moi c'est Abdel</h1>
+<h1 align="center">👋 Salut, moi c'est Abdel</h1>
 
 <h2 align="center">
   🚀 Développeur Full-Stack en reconversion • Ada Tech School • Paris / En recherche de Stage/Alternance
@@ -26,7 +26,7 @@
 ### 👨‍💻 À propos de moi
 
 - 🎯 Objectif : devenir **Full-Stack Developer** et travailler sur des projets concrets et utiles
-- 📚 Formation actuelle : **Ada Tech School** (RNCP 6 Concepteur Développeur d’Applications)
+- 📚 Formation actuelle : **Ada Tech School** (BAC+3 - RNCP 6 Concepteur Développeur d’Applications)
 - 🧠 Apprentissage : React • Node.js/Express • PostgreSQL • TypeScript • Tailwind • Next.js • Figma • Bash
 - 🔥 Ambition : créer des projets réels et utilisables (pas juste des exercices)
 - 💼 Ancien métier : conducteur de bus RATP → gestion du stress, communication, relation client, autonomie
@@ -38,7 +38,7 @@
 
 - 🏍️ Passionné de **moto** — pour moi, c’est liberté + adrénaline
 - 🎮 Gamer dans l'âme — FPS / open world / management 
-- ✈️ Voyageur — Thaïlande, Dubaï, Malaisie… j’adore découvrir de nouvelles cultures et filmer mes voyages
+- ✈️ Voyageur — Thaïlande, Emirats arabes unis, Indonésie, Algérie, Maroc, Malte, Turquie, Portugal, Espagne, Belgique, Malaisie… j’adore découvrir de nouvelles cultures et filmer mes voyages
 - 🎥 J’aime monter des vidéos (DaVinci Resolve • contenu voyage / perso / projets)
 
 > 🌍 J’aime construire des projets qui ont du sens, tout comme j’aime explorer le monde.
