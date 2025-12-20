@@ -19,7 +19,7 @@
 <h1 align="center">👋 Salut, moi c'est Abdel</h1>
 
 <h2 align="center">
-  🚀 Développeur Full-Stack en reconversion • Ada Tech School • Paris / En recherche de Stage/Alternance
+  🚀 Développeur Full-Stack en reconversion • Ada Tech School • Paris / En recherche de Stage ou Alternance
 </h2>
 ---
 
