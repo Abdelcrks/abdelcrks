@@ -27,7 +27,7 @@
 
 - 🎯 Objectif : devenir **Full-Stack Developer** et travailler sur des projets concrets et utiles
 - 📚 Formation actuelle : **Ada Tech School** (BAC+3 - RNCP 6 Concepteur Développeur d’Applications)
-- 🧠 Apprentissage : React • Node.js/Express • PostgreSQL • TypeScript • Tailwind • Next.js • Figma • Bash
+- 🧠 Apprentissage : React • Node.js/Express • PostgreSQL • Javascript • TypeScript • Tailwind • Next.js • Figma • Bash
 - 🔥 Ambition : créer des projets réels et utilisables (pas juste des exercices)
 - 💼 Ancien métier : conducteur de bus RATP → gestion du stress, communication, relation client, autonomie
 
