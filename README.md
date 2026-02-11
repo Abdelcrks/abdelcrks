@@ -19,7 +19,7 @@
 <h1 align="center"> Salut, moi c'est Abdel !</h1>
 
 <h2 align="center">
-  🚀 Développeur Full-Stack en reconversion • Ada Tech School • Paris / En recherche de Stage ou Alternance
+  🚀 Développeur Full-Stack en reconversion • Ada Tech School • Paris / En recherche d'une Alternance à partir d'avril 2026.
 </h2>
 ---
 
@@ -28,11 +28,16 @@
 - 🎯 Objectif : devenir **Full-Stack Developer** et travailler sur des projets concrets et utiles
 - 📚 Formation actuelle : **Ada Tech School** (BAC+3 - RNCP 6 Concepteur Développeur d’Applications)
 - 🧠 Apprentissage : React • Node.js/Express • PostgreSQL • Javascript • TypeScript • Tailwind • Next.js • Svelte •Figma • Bash
-- 🔥 Ambition : créer des projets réels et utilisables (pas juste des exercices)
+- 🔥 Ambition : créer des projets réels et utilisables
 - 💼 Ancien métier : conducteur de bus RATP → gestion du stress, communication, relation client, autonomie
 
 ---
 
+### 📬 Me contacter
+
+📩 LinkedIn : www.linkedin.com/in/abdel-berkat
+
+---
 
 ### 👤 Un peu plus sur moi
 
@@ -112,7 +117,7 @@
 
 ### 🚀 Actuellement à la recherche
 
-📢 **Alternance / Stage** en développement web **à partir de février 2026**
+📢 **Alternance / Stage** en développement web **à partir d'avril 2026**
 
 - Full-Stack / Front / Back / React / Node / Next.js / Typescript
 
@@ -123,11 +128,7 @@
 </p>
 
 
-### 📬 Me contacter
 
-📩 LinkedIn : www.linkedin.com/in/abdel-berkat
-
----
 
 
 
