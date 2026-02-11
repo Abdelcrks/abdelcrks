@@ -48,7 +48,7 @@
 ### 🛠️ Compétences & Stack
 
 #### **Frontend**
-- React • JavaScript • TypeScript • Next.js
+- React • JavaScript • TypeScript • Next.js • Svelte.Js
 - HTML • CSS • TailwindCSS • Particles.js
 
 #### **Backend**
@@ -58,6 +58,7 @@
 #### **Base de données**
 - PostgreSQL (Neon)  
 - Drizzle
+- Kysely
 
 #### **Outils**
 - Git / GitHub
@@ -91,7 +92,7 @@
 
 | Projet | Description | Stack | Repo   | Démo   |
 |--------|-------------|--------|--------|--------|
-| **City Drive Location** | **FREELANCE PROJET CLIENT** Site vitrine pour une société de location de voitures : catalogue par catégories, pages véhicules, UI responsive, CTA WhatsApp / devis, mise en avant des services (IDF / Paris, livraison possible). | SVELTEKIT • TYPESCRIPT • TAILWIND | [Voir le projet](https://github.com/Abdelcrks/city-drive-location) | [Demo](city-drive-location.vercel.app) |
+| **City Drive Location** | **FREELANCE PROJET CLIENT** Site vitrine pour une société de location de voitures : catalogue par catégories, pages véhicules, UI responsive, CTA WhatsApp / devis, mise en avant des services (IDF / Paris, livraison possible). | SVELTEKIT • TYPESCRIPT • TAILWIND | [Voir le projet](https://github.com/Abdelcrks/city-drive-location) | [Demo](https://city-drive-location.vercel.app) |
 | **SYNEA** | Plateforme solidaire mettant en relation des personnes atteintes d’un cancer avec des personnes en rémission (Peer-Heroes). Onboarding par rôle, matching, profils utilisateurs, demandes de contact, messagerie, authentification sécurisée et UX mobile-first. Projet à impact social, pensé comme un vrai produit SaaS. | NEXT.JS • TYPESCRIPT • POSTGRESQL (Neon) • DRIZZLE • TAILWIND • BETTER-AUTH • CLOUDINARY | [Voir le projet](https://github.com/Abdelcrks/synea) |[Demo] En cours |
 | **AdaMarketPlace** | Marketplace (sans achats pour le moment) Système d'authentification avec BetterAuth (google & github), gestion admin , ajout, suppression de produits, système de commentaires, favoris, images| NEXT.JS • TYPESCRIPT • POSTGRESQL • DRIZZLE • TAILWIND • BETTERAUTH • CLOUDINARY |[voir le projet](https://github.com/Abdelcrks/frida-marketplace) |[Demo](https://frida-marketplace-8dm3.vercel.app/)|
 | **Adaverse** | Plateforme qui regroupe tous les projets de la promo Ada (Frida/Graces). Filtres par catégories, affichage dynamique depuis une base Postgres, pages par projet, système de publication + join Drizzle. Projet moderne full-stack avec composant de formulaire, routes dynamiques et UI responsive.| NEXT.JS • TYPESCRIPT • POSTGRESQL • DRIZZLE • TAILWIND |[Voir le projet](https://github.com/Abdelcrks/adaverse) | [Demo](https://adaverse-psi.vercel.app/)|
