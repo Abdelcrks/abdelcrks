@@ -107,7 +107,7 @@
 | **Adalicious** | Site vitrine de recettes + système de filtrage par ingrédients | JS • CSS • POSTGRESQL • Node • Express |[Voir le projet front ](https://github.com/Abdelcrks/adalicious) • [Voir le projet back ](https://github.com/Abdelcrks/adalicious-back)  |
 | **Adaopte** | Adaopte Application web d’adoption d’animaux réalisée en reproduction 100% fidèle d’une maquette : grid layout responsive, système de pagination, barre de recherche et affichage des animaux sous forme de cards | JS • CSS • HTML |[Voir le projet](https://github.com/Abdelcrks/Adaopte) | [Demo](https://adaopte-eight.vercel.app/)|
 | **Adaction** | Application de suivi de collectes de déchets pour associations + onboarding + BDD | JS • Node • PostgreSQL  • Express | [Voir le projet](https://github.com/Abdelcrks/adaction) | [Demo](https://adaction-two.vercel.app/)|
-| **Quizz Capitales** | Quiz sur les capitales avec timer, score et feedback visuel | HTML • CSS • JavaScript |[Voir le projet](https://github.com/Abdelcrks/Quizz-Capitale) | [Demo](https://quizz-capitale.vercel.app/))|
+| **Quizz Capitales** | Quiz sur les capitales avec timer, score et feedback visuel | HTML • CSS • JavaScript |[Voir le projet](https://github.com/Abdelcrks/Quizz-Capitale) | [Demo](https://quizz-capitale.vercel.app/)|
 | **Space Explorer (🛠️ En construction)** | Recherche d’informations sur les planètes + animation immersive + API Wikipedia | HTML/CSS/JS • Particles.js |[Voir le projet](https://github.com/Abdelcrks/parigo) | [Demo](https://space-explorer-flax.vercel.app/index.html)|
 
 ➡️ Tous mes projets ici :  
