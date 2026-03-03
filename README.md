@@ -19,9 +19,32 @@
 <h1 align="center"> Salut, moi c'est Abdel !</h1>
 
 <h2 align="center">
-  🚀 Développeur Full-Stack en reconversion • Ada Tech School • Paris / En recherche d'une Alternance à partir d'avril 2026
+  🚀 Développeur Full-Stack • Expérience projets clients (web & mobile) • Paris • Recherche Alternance Avril 2026
 </h2>
 ---
+
+
+---
+
+## 💼 Expérience Professionnelle
+
+### 🚀 Développeur Full-Stack — Les3Dev  
+📍 Paris • Stage Février 2026 – Avril 2026 (en cours)
+
+> Intégré sur des **projets clients réels (web & mobile)** en environnement professionnel.
+
+**Stack :** SvelteKit 5 • TypeScript • PostgreSQL • Kysely • Arktype • Capacitor • Git (PR & Code Review)
+
+### 🔹 Missions principales
+
+- 🏗️ Développement d’une **interface administrateur complète** pour un client BTP (CRUD, PostgreSQL, clean architecture)
+- 📱 Participation à un **projet mobile hybride avec Capacitor**
+- 🎮 Création d’un **jeu de réflexe interactif** (state machine, timers, logique dynamique)
+- 🎬 Développement d’un **MediaPlayer custom (audio & vidéo)** : progress bar, fullscreen, volume, sous-titres
+- 🔍 Lecture et compréhension d’un codebase existant
+- 🔁 Travail via Pull Requests, respect des conventions & clean code
+
+> 🔥 Expérience en environnement réel : adaptation rapide à une nouvelle stack (React/Next → SvelteKit/Kysely)
 
 ### 👨‍💻 À propos de moi
 
