@@ -21,7 +21,6 @@
 <h2 align="center">
   🚀 Développeur Full-Stack • Expérience projets clients (web & mobile) • Paris • Recherche Alternance Avril 2026
 </h2>
----
 
 
 
