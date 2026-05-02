@@ -31,7 +31,7 @@
 
 > Intégré sur des **projets clients réels (web & mobile)** en environnement professionnel.
 
-**Stack :** SvelteKit 5 • TypeScript • PostgreSQL • Kysely • Arktype • Capacitor • Git (PR & Code Review)
+**Stack :** SvelteKit 5 • TypeScript • Python • PostgreSQL • Kysely • Arktype • Capacitor • Git (PR & Code Review)
 
 ### 🔹 Missions principales
 
